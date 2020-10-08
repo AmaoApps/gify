@@ -1,0 +1,15 @@
+install angular con proyecto
+ng new project-pwa
+
+Ver el proyecto en localhost:4200
+ng serve
+
+Agregar pwa a tu proyecto
+ng add @angular/pwa
+
+Compilar tu proyecto como produccion, por motivos de poder usar el service worker
+build the application
+ng build --prod
+
+Luego tenemos que levantar un servidor el cual aloje la aplicacion ejecutada
+http-server -p 8080
