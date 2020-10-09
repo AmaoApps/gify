@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1602216723032,
+  "timestamp": 1602217212136,
   "index": "https://rakso-x.github.io/gify/index.html",
   "assetGroups": [
     {
@@ -15,12 +15,9 @@
         "https://rakso-x.github.io/gify/index.html",
         "https://rakso-x.github.io/gify/main.30d00a286e58fbdf6ad0.js",
         "https://rakso-x.github.io/gify/manifest.webmanifest",
-        "https://rakso-x.github.io/gify/ngsw-worker.js",
         "https://rakso-x.github.io/gify/polyfills.35a5ca1855eb057f016a.js",
         "https://rakso-x.github.io/gify/runtime.acf0dec4155e77772545.js",
-        "https://rakso-x.github.io/gify/safety-worker.js",
-        "https://rakso-x.github.io/gify/styles.3ff695c00d717f2d2a11.css",
-        "https://rakso-x.github.io/gify/worker-basic.min.js"
+        "https://rakso-x.github.io/gify/styles.3ff695c00d717f2d2a11.css"
       ],
       "patterns": []
     },
@@ -58,12 +55,9 @@
     "https://rakso-x.github.io/gify/index.html": "2f50c8369e5684b32c79a5c34a5ee8672daa59e1",
     "https://rakso-x.github.io/gify/main.30d00a286e58fbdf6ad0.js": "8ffff2175c1c780026e202471fba819725a77fb6",
     "https://rakso-x.github.io/gify/manifest.webmanifest": "e9720053d5a600de321dd48b6171b812b48e30ed",
-    "https://rakso-x.github.io/gify/ngsw-worker.js": "601253069e8f1d4f717e0bd54332587669d68261",
     "https://rakso-x.github.io/gify/polyfills.35a5ca1855eb057f016a.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
     "https://rakso-x.github.io/gify/runtime.acf0dec4155e77772545.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "https://rakso-x.github.io/gify/safety-worker.js": "f532926317210be6e2679d21748dc44a35389807",
-    "https://rakso-x.github.io/gify/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-    "https://rakso-x.github.io/gify/worker-basic.min.js": "f532926317210be6e2679d21748dc44a35389807"
+    "https://rakso-x.github.io/gify/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
