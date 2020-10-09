@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1602217741603,
+  "timestamp": 1602217998838,
   "index": "https://rakso-x.github.io/gify/index.html",
   "assetGroups": [
     {
@@ -52,7 +52,7 @@
     "https://rakso-x.github.io/gify/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://rakso-x.github.io/gify/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://rakso-x.github.io/gify/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://rakso-x.github.io/gify/index.html": "6b1b68d5298a603803f4419058261433fb279299",
+    "https://rakso-x.github.io/gify/index.html": "2f50c8369e5684b32c79a5c34a5ee8672daa59e1",
     "https://rakso-x.github.io/gify/main.30d00a286e58fbdf6ad0.js": "8ffff2175c1c780026e202471fba819725a77fb6",
     "https://rakso-x.github.io/gify/manifest.webmanifest": "e9720053d5a600de321dd48b6171b812b48e30ed",
     "https://rakso-x.github.io/gify/polyfills.35a5ca1855eb057f016a.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
