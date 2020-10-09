@@ -7,9 +7,25 @@ ng serve
 Agregar pwa a tu proyecto
 ng add @angular/pwa
 
-Compilar tu proyecto como produccion, por motivos de poder usar el service worker
-build the application
-ng build --prod
+Agregar en script del package.json lo siguiente
+"prod": "ng build --prod"
 
-Luego tenemos que levantar un servidor el cual aloje la aplicacion ejecutada
-http-server -p 8080
+luego esto agregara una funcion en el npm del proyecto, lo ejecutamos
+npm run prod
+
+Como necesita un servidor para que funcione el service worker agregamos
+la libreria para angular
+npm install -g angular-http-server
+
+Una vez instalado esta libreria, nos dirigimos al proyecto generado 
+en dist/<pwa-project> 
+cd dist/pwa
+
+en la carpeta generada ingresamos el comando
+angular-http-server
+
+Lego veremos nuesta app en localhost:8080 y vemos en inspeccionar
+la aplicacion y vemos activado el service worker
+
+USANDO GITHUB PAGES PARA ALMACENAR ANGULAR PROJECTS
+npm i angular-cli-ghpages --save-dev
